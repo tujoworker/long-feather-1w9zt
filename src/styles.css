@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+}
+body {
+  padding: 1rem;
+}
+
+.inline-flex {
+  grid-column: span 4;
+  display: inline-flex;
+}
